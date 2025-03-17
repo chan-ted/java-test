@@ -2,6 +2,7 @@ public class Hi
 {
   public static void main(String[] args)
     {
-      System.out.println("you are a hihi");
+      int n=1;
+      System.out.println("you are "+n+" hihi");
     }
 }
